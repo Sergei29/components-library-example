@@ -1,3 +1,4 @@
 import { Button } from "./stories/Button";
+import { TextInput } from "./stories/TextInput/TextInput";
 
-export { Button };
+export { Button, TextInput };
