@@ -1,0 +1,13 @@
+.storybook-text-input {
+  display: grid;
+  grid-template-columns: 2.7fr 1fr;
+  grid-template-rows: 50px;
+  gap: 8px;
+}
+
+.storybook-text-input > input {
+  border: none;
+  border-radius: 4px;
+  padding: 4px 8px;
+  background-color: #eaeaea;
+}
