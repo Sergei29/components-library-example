@@ -8,8 +8,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "storybook": "storybook dev -p 6006",
     "build-storybook": "storybook build",
-    "buildLib": "rollup -c",
-    "publish": "npm publish --access=public"
+    "buildLib": "rollup -c"
   },
   "keywords": [],
   "author": "",
