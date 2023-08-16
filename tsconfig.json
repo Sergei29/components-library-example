@@ -13,5 +13,5 @@
     "declaration": true,
     "declarationDir": "dist"
   },
-  "include": ["stories"]
+  "include": ["stories", "index.ts"]
 }
