@@ -1,6 +1,6 @@
 {
-  "name": "@sergeatzedigitalbench/q-ui-components-library",
-  "version": "1.0.4",
+  "name": "@sergebasangovs/q-ui-components-library",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/index.js",
   "type": "module",
